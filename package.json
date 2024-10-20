@@ -1,0 +1,30 @@
+{
+  "name": "tubito",
+  "version": "1.0.0",
+  "description": "your pd assistant",
+  "type": "module",
+  "main": "./src/app.ts",
+  "scripts": {
+    "test": "test",
+    "start": "ts-node --esm ./src/app.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianaba-dev/tubito.git"
+  },
+  "author": "tbmontenegro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianaba-dev/tubito/issues"
+  },
+  "homepage": "https://github.com/tianaba-dev/tubito#readme",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "@graphql-tools/merge": "^9.0.8",
+    "graphql": "^16.9.0"
+  },
+  "devDependencies": {
+    "@types/graphql": "^14.2.3",
+    "@types/node": "^22.7.7"
+  }
+}

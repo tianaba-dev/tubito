@@ -1,0 +1,25 @@
+{
+
+    "moves": [
+        {
+            "id": 1,
+            "displayName": "Fireman",
+            "level": 1
+        },
+        {
+            "id": 2,
+            "displayName": "Juliette spin",
+            "level": 2
+        },
+        {
+            "id": 3,
+            "displayName": "Gemini",
+            "level": 2
+        },
+        {
+            "id": 4,
+            "displayName": "Shoulder mount",
+            "level": 3
+        }
+    ]
+}
